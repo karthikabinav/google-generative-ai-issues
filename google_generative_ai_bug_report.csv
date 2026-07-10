@@ -1,3 +1,8 @@
 repository_name,open_bug_count
-google/generative-ai-docs,18
+google/generative-ai-python,2
 google/generative-ai-go,6
+google/generative-ai-js,1
+google/generative-ai-android,0
+google/generative-ai-swift,0
+google/generative-ai-dart,0
+google/generative-ai-docs,0
